@@ -16,5 +16,5 @@ kelvin to fahrenheit
 kelvin to celcius
 
 you can also view this with this 
-https://beellz.github.io/tempertaure-change/
+https://beellz.github.io/temperature-change/
 
